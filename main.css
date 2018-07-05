@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+
+ul li{
+padding: 20px;
+transition: all .5s
+}
+img:hover{
+
+}
+.active{
+    transform: rotateY(180deg);
+    width:400px;
+
+}
